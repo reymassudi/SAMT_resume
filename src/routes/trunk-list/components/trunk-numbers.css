@@ -1,0 +1,14 @@
+.trunk-IpNumbers {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.trunk-IpNumbers-column {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: flex-start;
+}
+.trunk-IpNumbers .MuiButtonBase-root {
+    font-size: 18px !important;
+}

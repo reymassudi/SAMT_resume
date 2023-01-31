@@ -1,0 +1,8 @@
+.commit-button.MuiChip-root {
+    direction: ltr !important;
+}
+.commit-button .MuiSvgIcon-root {
+    margin-right: -8px !important;
+    margin-left: 6px !important;
+    font-size: 18px !important;
+}

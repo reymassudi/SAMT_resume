@@ -1,0 +1,6 @@
+.result-table .MuiTableHead-root {
+    display: table-header-group !important;
+}
+.result-table .MuiChip-label {
+    color: black !important;
+}

@@ -1,0 +1,16 @@
+img {
+    transition: all ease-in-out 0.3s;
+}
+
+.graph-title {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #344767;
+}
+.graph-description {
+    margin-right: 10px;
+    font-size: 0.875rem;
+    line-height: 1.5;
+    color: #000000a6;
+    font-weight: 300;
+}
